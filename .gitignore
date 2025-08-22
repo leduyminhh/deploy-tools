@@ -1,0 +1,70 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+history/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+target/
+out/
+*.log
+*.iml
+.idea/
+*.jks
+*.keystore
+
+# React
+node_modules/
+build/
+dist/
+.cache/
+.eslintcache
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+*.class
+*.jar
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+*.settings.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+app.config.json
+*app.config.json
